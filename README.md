@@ -1,5 +1,5 @@
 # Platô Contemporâneo - Filosofia no Cotidiano
-<img align="left" width="200" src="https://raw.githubusercontent.com/felipeocs/plato-contemporaneo-podcast/main/output/cover.jfif" style="max-width: 100%;">
+<img align="left" width="270" src="https://raw.githubusercontent.com/felipeocs/plato-contemporaneo-podcast/main/output/cover.jfif" style="max-width: 100%;">
 
 > ℹ️ **NOTE**: Este é o repositório desenvolvido durante o Bootcamp Santander 2024 - Fundamentos de IA para Devs no qual fui Aluno na plataforma da [DIO](https://www.dio.me)
 
@@ -9,6 +9,9 @@ Você pode ouvir diretamente aqui:
 
 [![Ouça no SoundCloud](https://img.shields.io/badge/Ouça_no-SoundCloud-orange?logo=soundcloud)](https://soundcloud.com/felipe-sousa-123758269/plato-contemporaneomp3?si=132fddaa56404f479752cf76c9d8c4c5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
+ou
+
+[🎧 Clique para acessar o repositório](https://github.com/felipeocs/plato-contemporaneo-podcast/blob/main/output/Plat%C3%B4%20Contempor%C3%A2neo.MP3)
 
 ## 💻 Tecnologias utilizadas no projeto
 
